@@ -44,4 +44,7 @@ Technologies I've been learning and using so far :
     ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
    
-More about me 👉 https://www.linkedin.com/in/rahul-lohar-780a3613b/
+More about me 👉 https://rahulkloharprofile.herokuapp.com/
+
+connect me at Linkedin :- 
+https://www.linkedin.com/in/rahul-lohar-780a3613b/
