@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Rahul Lohar who has a curious mind. I'd like to learn something new every day. I'm a **BE. Computer Engineer** and currently a **Data Scientist enthusiast**.
+I'm Rahul Lohar who has a curious mind. I'd like to learn something new every day. I'm a **MBA Business Analyst** and currently a **Data Scientist enthusiast**.
 
 - 🌱 On the way of learning **Advanced Machine Learning** & **Data Science** (also enjoying _Web Dev_).
 - 😍 My hobbies are GYM 🏋️ Cooking 🍱 interior decorator 🔨 reading books 📚
